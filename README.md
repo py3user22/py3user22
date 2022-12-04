@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @py3user22
-- 👀 I’m interested in ...python, cy_sec, backend server configs, 
-- 🌱 I’m currently learning ... google automation w/ python, py3 data structures, & py3 for data science
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 👋 Hi, I’m @py3user22 & Welcome to my README.md
+- 👀 I’m interested in ...Python, Cyber_Security, & self improvement studies.   @120422'
+- 🌱 I’m currently learning ... Jenkins, Kubernetes, Linux, & class inheritance   @120422'
+- 💞️ I’m looking to collaborate on ... work projects.
+- 📫 How to reach me >> <company email> <company phone>  
 
 <!---
 py3user22/py3user22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
