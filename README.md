@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @py3user22 & Welcome to my README.md
-- 👀 I’m interested in ...Python, Cyber_Security, & self improvement studies.   @120422'
-- 🌱 I’m currently learning Cyber security procedures, and Python, Ruby, using Ubuntu, and Windows11.  @021323'
+- 👀 I’m interested in
+-     studying Python, Cyber Security, Cloud networking configurations   @ 080323'
+- 🌱 I’m currently learning Cyber security procedures, Microsoft ML,  
 - 💞️ I’m looking to collaborate on team building projects.
 - 📫 How to reach me >> send email and ill get back to you asap. 
 <!---
