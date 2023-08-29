@@ -1,3 +1,6 @@
+This is used for file backups and education demos for python3 programming.  Not everything but some nice examples for reference for people just starting out in Python3 in 2023'.  Have fun! Thanks for looking. 
+
+
 - 👋 Hi, I’m @py3user22 & Welcome to my README.md
 - 👀 I’m interested in:
 -1 -current events
