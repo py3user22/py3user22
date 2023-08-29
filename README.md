@@ -9,9 +9,12 @@
 - 🌱 I’m currently learning --
 -1 -Juniper cybersecurity 
 -2 -RHEL IBM power9 systems course
+-3 -Spanish
+-4 -Machine learning w/ AI
   
 - 💞️ I am looking to learn more about you & your company, have any ?s feel free to contact me anytime,
--     & I will get back to you when possible.  
+-     & I will get back to you when possible.
+-     Yo hablo y escribo y leo Espanol. Gracias!
 - 📫 How to reach me >> send email and ill get back to you asap. 
 <!---
 py3user22/py3user22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
