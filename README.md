@@ -1,5 +1,7 @@
 This is used for file backups and education demos for python3 programming.  Not everything but some nice examples for reference for people just starting out in Python3 in 2023'.  Have fun! Thanks for looking. 
 
+I have been practicing & documenting my hours for about 2 years now, practicing my python3 daily, I average about 150 hours each month, which is 3 hours a day, sometimes slightly less, sometimes 2x more.  I usually dont miss a day unless family comes to visit & I am outside with them all day.  Just a habit now, I love to learn & experience new things.  Always into gaining more knowledge and skills that can benefit me in my daily life & work.  I have two gifted daughters & I show them that hardwork & willingness to learn new things is good for them. 
+
 
 - 👋 Hi, I’m @py3user22 & Welcome to my README.md
 - 👀 I’m interested in:
