@@ -1,5 +1,9 @@
 This is used for file backups and education demos for python3 programming.  Not everything but some nice examples for reference for people just starting out in Python3 in 2023'.  Have fun! Thanks for looking. 
 
+new102923':
+My new schedule is about 6-8+ hours daily on my programming studies, and certifications.  I am averaging about 6 hours daily minimum, 9 is sometimes max for a day.  My daily time starts at 2300 - 2300.  I am practicing at the moment Javascript, & HTML/CSS, and have restarted my python3 training.  My new skill I am proud of is the making of dynamic webpages, and every document I make is now registered on my local machine as a website, that has all my programming files for really easy access & viewing.  I am focused on my training, but would like eventually to start working in IT security, or now full-stack developer, or front/back developer.  Cheers!
+
+old:
 I have been practicing & documenting my hours for about 2 years now, practicing my python3 daily, I average about 150 hours each month, which is 3 hours a day, sometimes slightly less, sometimes 2x more.  I usually dont miss a day unless family comes to visit & I am outside with them all day.  Just a habit now, I love to learn & experience new things.  Always into gaining more knowledge and skills that can benefit me in my daily life & work.  I have two gifted daughters & I show them that hardwork & willingness to learn new things is good for them. 
 
 
@@ -12,10 +16,10 @@ I have been practicing & documenting my hours for about 2 years now, practicing 
 -5 -studying Python, Cyber Security, Cloud networking configurations   @ 080323'
 -  
 - 🌱 I’m currently learning --
--1 -Juniper cybersecurity 
--2 -RHEL IBM power9 systems course
+-1 -Meta Front-end
+-2 -Meta Back-end
 -3 -Spanish
--4 -Machine learning w/ AI
+-4 -
   
 - 💞️ I am looking to learn more about you & your company, have any ?s feel free to contact me anytime,
 -     & I will get back to you when possible.
