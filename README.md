@@ -1,5 +1,13 @@
+
 # Welcome to my page! 
+
 ## py3user22@github.com
+
+### Programming saves & projects used in resume 
+
+
+
+
 
 This is used for file backups and education demos for python3 programming.  Not everything but some nice examples for reference for people just starting out in Python3 in 2023'.  Have fun! Thanks for looking. 
 
