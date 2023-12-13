@@ -1,5 +1,5 @@
 
-# Welcome to my page! 
+# Welcome to my page! @121223' @2022
 
 ## py3user22@github.com | youtube.com/@py3pro2023 | linkedin.com/in/jesus-gomez-806332119
 
@@ -25,8 +25,18 @@ This is used for file backups and education demos for python3 programming.
 Not everything but some nice examples for reference for people just starting out in Python3 in 2023'.
 Have fun! Thanks for looking. 
 
+#### programming languages:
+Python (2+ yr)
+Javascript (1yr)
+Bash (2+ yr)
+HTML/CSS (1yr)
 
-new102923':
+
+
+
+
+__________________________________________
+old102923':
 My new schedule is about 6-8+ hours daily on my programming studies, and certifications.  I am averaging about 6 hours daily minimum, 9 is sometimes max for a day.  My daily time starts at 2300 - 2300.  I am practicing at the moment Javascript, & HTML/CSS, and have restarted my python3 training.  My new skill I am proud of is the making of dynamic webpages, and every document I make is now registered on my local machine as a website, that has all my programming files for really easy access & viewing.  I am focused on my training, but would like eventually to start working in IT security, or now full-stack developer, or front/back developer.  Cheers!
 
 old:
