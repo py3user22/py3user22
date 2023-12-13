@@ -8,7 +8,7 @@
 *Current programming courses taking:*
 1. Meta back-end developer
 2. Meta frontend developer
-
+----------------------
 **Specialization certificates earned:**
 1. IBM Cybersecurity Analyst Professional Certificate
 2. Palo Alto Networks Cybersecurity Professional Certificate
@@ -19,9 +19,12 @@
 7. Networking in Google Cloud Specialization
 8. Architecturing w/ Google Kubernetes Engine Specialization
 9. Google IT automation using Python Specialization
+----------------------
 
+This is used for file backups and education demos for python3 programming.
+Not everything but some nice examples for reference for people just starting out in Python3 in 2023'.
+Have fun! Thanks for looking. 
 
-This is used for file backups and education demos for python3 programming.  Not everything but some nice examples for reference for people just starting out in Python3 in 2023'.  Have fun! Thanks for looking. 
 
 new102923':
 My new schedule is about 6-8+ hours daily on my programming studies, and certifications.  I am averaging about 6 hours daily minimum, 9 is sometimes max for a day.  My daily time starts at 2300 - 2300.  I am practicing at the moment Javascript, & HTML/CSS, and have restarted my python3 training.  My new skill I am proud of is the making of dynamic webpages, and every document I make is now registered on my local machine as a website, that has all my programming files for really easy access & viewing.  I am focused on my training, but would like eventually to start working in IT security, or now full-stack developer, or front/back developer.  Cheers!
