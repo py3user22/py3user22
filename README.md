@@ -1,12 +1,24 @@
 
 # Welcome to my page! 
 
-## py3user22@github.com
+## py3user22@github.com | youtube.com/@py3pro2023 | linkedin.com/in/jesus-gomez-806332119
 
 ### Programming saves & projects used in resume 
 
+*Current programming courses taking:*
+1. Meta back-end developer
+2. Meta frontend developer
 
-
+**Specialization certificates earned:**
+1. IBM Cybersecurity Analyst Professional Certificate
+2. Palo Alto Networks Cybersecurity Professional Certificate
+3. Juniper Networks Security Fundamentals Specialization
+4. ISC2 Certified in Cybersecurity Specialization
+5. ISC2 Systems Security Certified Practitioner (SSCP)
+6. Red Hat Linux and Private Cloud Administration on IBM Power Systems Specialization
+7. Networking in Google Cloud Specialization
+8. Architecturing w/ Google Kubernetes Engine Specialization
+9. Google IT automation using Python Specialization
 
 
 This is used for file backups and education demos for python3 programming.  Not everything but some nice examples for reference for people just starting out in Python3 in 2023'.  Have fun! Thanks for looking. 
