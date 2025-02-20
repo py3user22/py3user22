@@ -1,5 +1,6 @@
 
 # Welcome to my page! @121223' @2022
+# @022025'  @0100
 
 ## py3user22@github.com | youtube.com/@py3pro2023 | linkedin.com/in/jesus-gomez-806332119
 
